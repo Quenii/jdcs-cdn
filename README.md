@@ -12,7 +12,7 @@ An unfinished version of a CDN made for JDCS/JDO, replicating the way Just Dance
 
 - Use `git clone https://github.com/devvjs/jdcs-cdn.git` or download the repo as a ZIP file directly.
 - Once you are done, go into `jdcs` folder and run `npm i` to install all packages that are required.
-- After that, you can run the server by `node jdcs.js`.
+- After that, you can run the server by `node server.js`.
 
 ## License
 There is no license for this project currently.
